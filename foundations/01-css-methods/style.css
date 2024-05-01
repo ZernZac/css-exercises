@@ -1,0 +1,10 @@
+div{
+    margin:auto;
+    width:100%;
+    background-color: red;
+    text-align: center;
+    padding: 15px,15px,15px, 15px;
+    font-weight: bold;
+    color:white;
+    font-size: 30px;
+}
