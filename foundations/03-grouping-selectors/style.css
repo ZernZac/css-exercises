@@ -1,14 +1,16 @@
-#clickMe{
+.clickMe{
 background-color: black;
-color: white;
+color:white;
+font-weight: bold;
 }
 
-#noClickMe{
+.noClickMe{
     background-color: yellow;
-    color: black;
 }
 
-.both{
+.clickMe, .noClickMe{
     font-size: 28px;
     font-family: 'Helvetica', 'Times New Roman', sans-serif;
+    
 }
+
